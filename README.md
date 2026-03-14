@@ -3,7 +3,7 @@
 Welcome to my personal developer portfolio website built using **Next.js, React, and Tailwind CSS**.  
 This website showcases my **projects, skills, certifications, and contact information**.
 
-🔗 **Live Portfolio:** (Add your deployed link here after deployment)
+🔗 **Live Portfolio:** https://portfolio-taupe-gamma-wmaxoh8axy.vercel.app/
 
 ---
 
